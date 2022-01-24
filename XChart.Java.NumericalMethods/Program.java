@@ -18,7 +18,7 @@ import java.util.Objects;
  * 2021/04/01
  * */
 
-public class DifferentialEquation extends JFrame{
+public class Main extends JFrame{
     // Double
     private static double[] arr, arr_sol;
     private static double u0, T = 1,h, a = 0.5, phi = 0.05, lambda = 0.5, eps, error;
@@ -46,7 +46,7 @@ public class DifferentialEquation extends JFrame{
 
 
     // Building the user interface
-    DifferentialEquation() {
+    Main() {
         setLayout(new BorderLayout());
 
         JPanel mainPanel = new JPanel();
@@ -212,7 +212,7 @@ public class DifferentialEquation extends JFrame{
         interpolateFunctionSeries.setLineColor(Color.RED);
         interpolateFunctionSeries.setLineWidth(1.2f);
 
-        DifferentialEquation frame = new DifferentialEquation();
+        Main frame = new Main();
         frame.setTitle("<Title>");
         frame.add(new XChartPanel<>(chart));
         frame.setSize(frame.getWidth(), frame.getHeight());
