@@ -14,3 +14,6 @@ Tweak the program code as needed.
 
 Enjoy!
 
+![Screenshot (36)](https://user-images.githubusercontent.com/70685477/156931325-a87a2eaf-c081-467c-a81d-c2215b76f114.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/70685477/156931333-9f00b527-38be-4e1d-961e-23aa87439a0a.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/70685477/156931342-8d77fbe7-dd21-4175-a14b-533478afe8b9.png)
