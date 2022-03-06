@@ -13,3 +13,5 @@ Copy and paste the code from Main.java file, import all the required classes.
 Tweak the program code as needed. 
 
 Enjoy!
+
+https://github.com/altynbek-y/template_program_numerical_methods/blob/main/Screenshot%20(38).png
